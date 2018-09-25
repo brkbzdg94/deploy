@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <h1>Tebrikler! Başarılı bir şekilde deploy ettiniz</h1>. 
+        <h1>Tebrikler! Başarılı bir şekilde deploy ettiniz burak bey</h1>. 
 		<h1>Hello World.</h1>
     </div>
     </form>
