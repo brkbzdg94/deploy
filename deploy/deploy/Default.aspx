@@ -11,6 +11,8 @@
     <div>
         <h1>Tebrikler! Başarılı bir şekilde deploy ettiniz burak bey</h1>. 
 		<h1>Hello World.</h1>
+		<h1>Hello World.</h1>
+		
     </div>
     </form>
 </body>
