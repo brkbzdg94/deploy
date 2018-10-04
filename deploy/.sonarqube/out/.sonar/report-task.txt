@@ -1,7 +1,0 @@
-organization=brkbzdg94-github
-projectKey=.netwebapp
-serverUrl=https://sonarcloud.io
-serverVersion=7.4.0.17063
-dashboardUrl=https://sonarcloud.io/dashboard?id=.netwebapp
-ceTaskId=AWYWfzKh-o61MP5s0_bu
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWYWfzKh-o61MP5s0_bu
