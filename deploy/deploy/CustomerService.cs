@@ -17,6 +17,20 @@ namespace deploy
         {
             return _repository.GetCustomer(id);
         }
+
+        public void YeniCustomer(int id)
+        {
+            //
+            int a = 1;
+            a = a + 1;
+        }
+
+        public void EskiCustomer(int id)
+        {
+            //
+            int a = 1;
+            a = a + 1;
+        }
     }
 
     public interface ICustomerRepository
