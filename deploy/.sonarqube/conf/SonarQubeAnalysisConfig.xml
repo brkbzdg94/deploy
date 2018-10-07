@@ -78,11 +78,10 @@
     <Property Name="sonar.updatecenter.url">https://update.sonarsource.org/update-center.properties</Property>
     <Property Name="sonar.core.id">BF41A1F2-AWVOlXCeN9wBYNw0XhpG</Property>
     <Property Name="sonar.global.exclusions">**/*.js</Property>
-    <Property Name="sonar.core.startTime">4.10.2018 09:23:59</Property>
+    <Property Name="sonar.core.startTime">5.10.2018 09:05:16</Property>
   </ServerSettings>
   <LocalSettings>
-    <Property Name="sonar.cs.vscoveragexml.reportsPaths">C:\Users\burak\Source\Repos\deploy\deploy\TestCoverage.coveragexml</Property>
-    <Property Name="sonar.verbose">true</Property>
+    <Property Name="sonar.cs.vscoveragexml.reportsPaths">C:\Users\burak\Source\Repos\deploy\deploy\Test.coveragexml</Property>
   </LocalSettings>
   <AnalyzersSettings>
     <AnalyzerSettings>

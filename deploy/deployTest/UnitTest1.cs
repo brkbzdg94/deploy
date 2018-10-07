@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace deployTest
 {
     [TestClass]
-    public class testHesapla
+    public class TestHesapla
     {
         [TestMethod]
         public void testTopla()
