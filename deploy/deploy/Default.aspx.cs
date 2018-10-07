@@ -28,24 +28,14 @@ namespace deploy
             //
             int a = 1;
             a = a + 1;
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
         }
-        public void EskiCustomer2(int id)
-        {
-            //
-            int a = 1;
-            a = a + 1;
-        }
-        public void EskiCustomer3(int id)
-        {
-            //
-            int a = 1;
-            a = a + 1;
-        }
-        public void EskiCustomer4(int id)
-        {
-            //
-            int a = 1;
-            a = a + 1;
-        }
+        
     }
 }
