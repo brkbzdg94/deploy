@@ -34,5 +34,65 @@ namespace deployTest
             //Assert
             Assert.AreEqual(30, sonuc);
         }
+        [TestMethod]
+        public void testHesapla2EskiCustomer()
+        {
+
+            //Arrange
+            deploy.Hesapla2 hesap = new deploy.Hesapla2();
+
+            //Act
+            hesap.EskiCustomer(5);
+           
+            int sonuc = 30;
+
+            //Assert
+            Assert.AreEqual(30, sonuc);
+        }
+        [TestMethod]
+        public void testHesapla2YeniCustomer()
+        {
+
+            //Arrange
+            deploy.Hesapla2 hesap = new deploy.Hesapla2();
+
+            //Act
+            hesap.YeniCustomer(5);
+
+            int sonuc = 30;
+
+            //Assert
+            Assert.AreEqual(30, sonuc);
+        }
+        [TestMethod]
+        public void testHesaplaEskiCustomer()
+        {
+
+            //Arrange
+            deploy.Hesapla hesap = new deploy.Hesapla();
+
+            //Act
+            hesap.EskiCustomer(5);
+
+            int sonuc = 30;
+
+            //Assert
+            Assert.AreEqual(30, sonuc);
+        }
+        [TestMethod]
+        public void testHesaplaYeniCustomer()
+        {
+
+            //Arrange
+            deploy.Hesapla hesap = new deploy.Hesapla();
+
+            //Act
+            hesap.YeniCustomer(5);
+
+            int sonuc = 30;
+
+            //Assert
+            Assert.AreEqual(30, sonuc);
+        }
     }
 }

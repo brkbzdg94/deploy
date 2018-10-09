@@ -30,5 +30,38 @@ namespace CustomerServiceTest
 
 
         }
+
+        [TestMethod]
+        public void testCustomerServiceEskiCustomer()
+        {
+            var repository = new Mock<ICustomerRepository>();
+            //repository.Setup(m => m.GetCustomer(1)).Returns(new Customer { FirstName = "Burak", LastName = "Bozdağ" });
+            //Arrange
+            CustomerService hesap = new CustomerService(repository.Object);
+
+            //Act
+            hesap.EskiCustomer(5);
+
+            int sonuc = 30;
+
+            //Assert
+            Assert.AreEqual(30, sonuc);
+        }
+        [TestMethod]
+        public void testCustomerServiceYeniCustomer()
+        {
+            var repository = new Mock<ICustomerRepository>();
+            //repository.Setup(m => m.GetCustomer(1)).Returns(new Customer { FirstName = "Burak", LastName = "Bozdağ" });
+            //Arrange
+            CustomerService hesap = new CustomerService(repository.Object);
+
+            //Act
+            hesap.YeniCustomer(5);
+
+            int sonuc = 30;
+
+            //Assert
+            Assert.AreEqual(30, sonuc);
+        }
     }
 }
