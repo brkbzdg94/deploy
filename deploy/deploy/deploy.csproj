@@ -147,6 +147,8 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adem.cs" />
+    <Compile Include="Burak.cs" />
     <Compile Include="CustomerService.cs" />
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
