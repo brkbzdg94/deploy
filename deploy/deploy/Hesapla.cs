@@ -29,6 +29,27 @@ namespace deploy
             //
             int a = 1;
             a = a + 1;
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
         }
 
     }
