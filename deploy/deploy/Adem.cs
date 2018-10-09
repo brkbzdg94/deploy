@@ -9,18 +9,18 @@ namespace deploy
     {
 
 
-        public void topla() { int a = 1 + 1; }
-        public void topla1() { int a = 1 + 1; }
-        public void topla2() { int a = 1 + 1; }
-        public void topla3() { int a = 1 + 1; }
-        public void topla4() { int a = 1 + 1; }
-        public void topla5() { int a = 1 + 1; }
-        public void topla6() { int a = 1 + 1; }
-        public void topla7() { int a = 1 + 1; }
-        public void topla8() { int a = 1 + 1; }
-        public void topla9() { int a = 1 + 1; }
-        public void topla10() { int a = 1 + 1; }
-        public void topla11() { int a = 1 + 1; }
+        public void topla() { int b = 1 + 1; }
+        public void topla1() { int b = 1 + 1; }
+        public void topla2() { int b = 1 + 1; }
+        public void topla3() { int b = 1 + 1; }
+        public void topla4() { int b = 1 + 1; }
+        public void topla5() { int b = 1 + 1; }
+        public void topla6() { int b = 1 + 1; }
+        public void topla7() { int b = 1 + 1; }
+        public void topla8() { int b = 1 + 1; }
+        public void topla9() { int b = 1 + 1; }
+        public void topla10() { int b = 1 + 1; }
+        public void topla11() { int b = 1 + 1; }
 
     }
 }
