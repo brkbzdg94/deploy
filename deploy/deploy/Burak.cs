@@ -7,7 +7,10 @@ namespace deploy
 {
     public class Burak
     {
-        public void topla() { int a = 1 + 1; }
+        public void topla()
+        {
+            int a = 1 + 1;
+        }
         public void topla1()
         {
             int a = 1 + 1;

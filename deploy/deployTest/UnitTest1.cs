@@ -28,6 +28,7 @@ namespace deployTest
 
             deploy.Burak bb = new deploy.Burak();
             bb.topla();
+            bb.topla1();
             //Act
             int sonuc = 30;
 
