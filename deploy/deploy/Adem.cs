@@ -18,7 +18,7 @@ namespace deploy
         public int MyProperty8 { get; set; }
         public int MyProperty9 { get; set; }
         public int MyProperty10 { get; set; }
-        public int MyProperty12 { get; set; }
+        public int MyProperty11 { get; set; }
         public int MyProperty112 { get; set; }
         public int MyProperty122 { get; set; }
         public int MyProperty132 { get; set; }
