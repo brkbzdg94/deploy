@@ -23,7 +23,12 @@ namespace deploy
         public int MyProperty122 { get; set; }
         public int MyProperty132 { get; set; }
 
-
+        public void topla() { int a = 1 + 1; }
+        public void topla1() { int a = 1 + 1; }
+        public void topla2() { int a = 1 + 1; }
+        public void topla3() { int a = 1 + 1; }
+        public void topla4() { int a = 1 + 1; }
+        public void topla5() { int a = 1 + 1; }
 
     }
 }
