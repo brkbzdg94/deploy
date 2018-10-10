@@ -14,6 +14,7 @@
 		<h1>Build Test Deploy</h1>
 		<h1>Adem ŞİMŞEK</h1>
 		<h1>Yusuf ŞİMŞEK</h1>
+		<h1>Burak BOZDAĞ</h1>
 
     </div>
     </form>
