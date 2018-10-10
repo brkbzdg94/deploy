@@ -11,7 +11,7 @@
     <div>
         <h1>Tebrikler! Başarılı bir şekilde deploy ettiniz burak beyyyyyyyyy</h1>.
 		<h1>Hello World test.</h1>
-		<h1>Build Test Deploy</h1>
+		<h1>Build Test Deployyyyyyyyyy</h1>
 		<h1>Adem ŞİMŞEK</h1>
 		<h1>Yusuf ŞİMŞEK</h1>
 		<h1>Burak BOZDAĞ</h1>
