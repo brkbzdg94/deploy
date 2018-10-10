@@ -87,7 +87,7 @@ namespace deployTest
             //Arrange
             deploy.Hesapla hesap = new deploy.Hesapla();
 
-            //Act
+            //Act 
             hesap.YeniCustomer(5);
 
             int sonuc = 30;
