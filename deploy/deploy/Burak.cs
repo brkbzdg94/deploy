@@ -19,7 +19,7 @@ namespace deploy
             int a3 = 1 + 1;
             int a4 = 1 + 1;
         }
-        public void topla2() { int a = 1 + 1; }
+        //public void topla2() { int a = 1 + 1; }
         //public void topla3() { int a = 1 + 1; }
         //public void topla4() { int a = 1 + 1; }
         //public void topla5() { int a = 1 + 1; }

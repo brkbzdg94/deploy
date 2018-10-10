@@ -27,7 +27,12 @@ namespace deploy
             Console.Write("Burak");
             Console.Write("Burak");
             Console.Write("Burak");
-           
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
         }
     }
 }
