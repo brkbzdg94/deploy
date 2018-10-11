@@ -7,6 +7,10 @@ namespace deploy
 {
     public class Burak
     {
+        ~Burak()
+        {
+            throw new NotImplementedException(); // Noncompliant
+        }
         public void topla()
         {
             int a = 1 + 1;
