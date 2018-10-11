@@ -9,9 +9,10 @@ namespace deploy
     {
         ~Burak()
         {
+            //Bug
             throw new NotImplementedException(); // Noncompliant
         }
-
+        //Vulnerability
         public static string[] strings1 = { "first", "second" };  // Noncompliant
         public static List<String> strings3 = new List<String>();  // Noncompliant
                                                                    // ...
