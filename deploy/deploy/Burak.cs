@@ -11,6 +11,11 @@ namespace deploy
         {
             throw new NotImplementedException(); // Noncompliant
         }
+
+        public static string[] strings1 = { "first", "second" };  // Noncompliant
+        public static List<String> strings3 = new List<String>();  // Noncompliant
+                                                                   // ...
+
         public void topla()
         {
             int a = 1 + 1;
